@@ -1,0 +1,24 @@
+.page1 {
+    margin: 0 auto;
+    display: flex;
+    max-width: 938px;
+    flex-wrap: wrap;
+}
+
+.ant-alert-content {
+    width: 915px;
+    font-size: 16px;
+}
+.ant-alert-error {
+    width: 938px;
+    margin: 0 auto;
+}
+.header__search {
+    cursor: pointer;
+}
+.active {
+    padding-bottom: 5px;
+    color: #1890FF;
+    border-bottom: 2px solid #1890FF;
+    cursor: pointer;
+}

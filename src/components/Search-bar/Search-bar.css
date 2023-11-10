@@ -1,0 +1,19 @@
+.search-bar_mod {
+    display: flex;
+    margin-bottom: 30px;
+}
+.search-bar__input::placeholder {
+    color: #D9D9D9;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.search-bar__input {
+    border-radius: 5px;
+    border: 1px solid #D9D9D9;
+    width: 938px;
+    height: 40px;
+    margin: 0 auto;
+}
